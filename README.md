@@ -1,5 +1,6 @@
 # 3-lb-Thagomizer---Colossal-Drift-v1
-A thagomizer is a wedge-facing robot to sideswipe the opponent where the armor is weakest, similar to a stegosaurus
+A thagomizer is a type of wedge-facing robot to sideswipe the opponent where the armor is weakest, similar to a stegosaurus. Inspired by Maximizer's 12 lb design and Thagomizer's 1lb robot, this bot tries to utilize a balanced center of mass to optimize turn speed under 0.2 seconds, which makes it practically impossible for a human to react. Currently, Colossal Drift V2 is in construction!
+
 
 CAD Files
 
